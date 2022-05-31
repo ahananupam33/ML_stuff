@@ -35,11 +35,11 @@ Sequential model by Keras
 
 **ACCURACIES**
 
-The model gave an accuracy of 99.16% after 20 epochs.
+The model gave an accuracy of 98.93% after 20 epochs.
 
 **CONCLUSION**
 
-The model was trained for 20 epochs and with 2 hidden layers and it gave a very high accuracy of 99.16%. While tuning the model, it was seen that 20 epochs was a good value to avoid overfitting. The model was also able to successfully classify the test images.
+The model was trained for 20 epochs and with 2 hidden layers and it gave a very high accuracy of 98.93%. While tuning the model, it was seen that 20 epochs was a good value to avoid overfitting. The model was also able to successfully classify the test images.
 
 **CONTRIBUTED BY**
 
